@@ -1,0 +1,17 @@
+Clothes
+---------------
+-Shorts
+------
+-T-Shirts
+------
+-Sandles
+------
+-Dress
+------
+-Swimsuit
+
+Other
+---------------
+-Books
+------
+-Headphones
