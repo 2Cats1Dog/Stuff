@@ -1,1 +1,6 @@
 # Stuff
+-------
+Shorts
+------
+T-Shirts
+-------
